@@ -1,0 +1,7 @@
+Samsung		10		24.5
+Asus		10		19.3
+Acer		10		15.5
+SamsungSHD	20		1900000
+SeagateHDD	20		2300000.5
+OCZ			30		1500
+Kingstone	30		1200
